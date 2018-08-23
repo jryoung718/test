@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Sunday
-=======
-Saturday
->>>>>>> fixed foo in fix1
+Friday Saturday Sunday
+Justin Young
